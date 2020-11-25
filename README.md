@@ -19,6 +19,7 @@ Displaying prompt with a user name and system name and current working directly.
 ##### pwd :
 
 **Syntax** - `pwd`
+
 **Description** - prints present working directory as the output.
             It is implemented in path.c file in pwd() function.
 
