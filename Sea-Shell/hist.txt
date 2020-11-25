@@ -1,0 +1,55 @@
+cd bar
+cd -
+cd -
+quit
+cd yo
+cd -
+cd -
+quit
+cd yo
+cd -
+cd -
+quit
+emacs
+emacs &
+fg 1
+jobs
+emacs
+emacs
+emacs
+emacs
+emacs
+emacs
+quit
+emacs 
+emacs
+jobs
+quit
+ls
+cat
+quit
+emacs &
+emacs &
+emacs
+emacs &
+emacs
+jobs
+jobs
+quit
+emacs 
+jobs
+quit
+emacs
+quit
+emacs
+quit
+emacs 
+jobs
+kjob 1 18
+quit
+echo yes
+emacs 
+jobs
+emacs 
+jobs
+quit

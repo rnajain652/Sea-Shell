@@ -1,0 +1,10 @@
+hist.txt:sort < file1.txt
+hist.txt:cat < 1.txt | cat 2.txt > 1.txt
+hist.txt:cat 1.txt
+hist.txt:cat 1.txt
+hist.txt:emac 1.txt
+hist.txt:emacs 1.txt
+hist.txt:cat 1.txt
+hist.txt:cat < 1.txt | cat 2.txt > 1.txt
+hist.txt:cat 1.txt
+hist.txt:cat < 1.txt
